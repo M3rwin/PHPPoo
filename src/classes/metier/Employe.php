@@ -5,7 +5,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/PHPClass.php to edit this template
  */
 
-namespace classes\metier;
+namespace App\classes\metier;
 
 /**
  * Description of Employe
@@ -14,4 +14,7 @@ namespace classes\metier;
  */
 class Employe {
     //put your code here
+    public function __construct() {
+        echo "autoload ok";
+    }
 }
