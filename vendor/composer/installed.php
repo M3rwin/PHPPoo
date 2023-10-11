@@ -3,7 +3,7 @@
         'name' => 'marco.clin/employe-poo2023',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '00851db4a94c7248121cc65bca75cd5aef3ec20d',
+        'reference' => 'd6db7417b096dd852fdeed80e94bbbbe561562ba',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'marco.clin/employe-poo2023' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '00851db4a94c7248121cc65bca75cd5aef3ec20d',
+            'reference' => 'd6db7417b096dd852fdeed80e94bbbbe561562ba',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
