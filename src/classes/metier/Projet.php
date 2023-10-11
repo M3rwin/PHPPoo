@@ -47,6 +47,10 @@ class Projet {
         return $this->id;
     }
     
+    public function getDateFinProjet() : DateTime {
+        return $this->dateDebut->add(new \DateInterval("P".$this->dureePrevue."D"));
+    }
+    
     /**
      * Constructeur de la classe Projet
      * 
