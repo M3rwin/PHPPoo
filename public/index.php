@@ -13,9 +13,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     </head>
     <body>
         <?php
-        use App\classes\metier\Employe;
         require '..\vendor\autoload.php';
-        $e = new Employe()
         // put your code here
         ?>
     </body>
